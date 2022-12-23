@@ -1,0 +1,10 @@
+{
+  "pets": [
+    {
+      "name": "Tommy",
+      "type": "Dog",
+      "summary": "type of pamilion breed.",
+      "id": 1
+    }
+  ]
+}
